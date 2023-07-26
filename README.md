@@ -1,5 +1,5 @@
 # Books_for_DeepLearning
-E-books recommended by Udacity for a deep understanding of Deep Laerning:\
+E-books recommended by Udacity for a deep understanding of Deep Learning concepts:
 1. <b>Grokking Deep Learning by Andrew Trask.</b> This book provides a very gentle introduction to Deep Learning and covers the intuition more than the theory.<br>
 2. <b>Neural Networks And Deep Learning by Michael Nielsen.</b> This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.<br>
 3. <b>Inside Deep Learning by Edward Raff</b> is an excellent intermediate book that covers much of the mathematical background, in-depth looks at modern neural network architectures, and develops a good intuition.<br>
